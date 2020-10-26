@@ -1,33 +1,33 @@
 
 <ROM>
     <RomName>MIUI Nusantara</RomName>
-    <VersionName>MIUI Nusantarana 20.10.20</VersionName>
+    <VersionName>MIUI Nusantarana 20.10.22</VersionName>
     <VersionNumber type="integer">12000021</VersionNumber>
     <DirectUrl nil="true"/>
     <HttpUrl>https://vincemiui.beatone25.workers.dev/MIUI%2520Q/KANGLIHAM_MIUI-X_V12.0.2.0_HM5Plus_V12-10.zip</HttpUrl>
     <Android>10.0</Android>
     <CheckMD5 nil="true"/>
     <FileSize type="integer">22791324</FileSize>
-    <Developer>IlhamXM</Developer>
+    <Developer>KangLiham</Developer>
     <WebsiteURL>http://t.me/MiuiNusantara</WebsiteURL>
     <DonateURL>https://paypal.me/LihamXM</DonateURL>
-    <Changelog><b>CHANGELOG</><br />
-<br />
-System</b><br />
-New - Android 11 update (Redmi K30, Mi 9T)<br />
-New - Added Widevine L1 support for Android 10 (Redmi Note 8)<br />
-<br />
-<b>Settings</b><br />
-Optimization - Redesigned color scheme settings (Android 10 devices)<br />
-Fix - &quot;Items shown on the lock screen after swiping down&quot; options didn't work properly<br />
-<br />
-<b>Camera</b><br />
-Fix - Video from front camera was green while video stabilization was enabled (Mi 10 Ultra)<br />
-<br />
-<b>Messaging</b><br />
-Optimization - Redesigned settings layout<br />
-Fix - &quot;No conversations&quot; icon was overlapping conversation view<br />
-<br />
-Mi 10 Pro, Mi 10, Redmi K30 Pro are expected to be released on Friday. TWRP issue for cmi/lmi still exist!<br />
-Mi 10 Ultra is suspended due to Android 11 test</div></Changelog>
+    <Changelog><b>CHANGELOG<br/>
+<br/>
+System</b><br/>
+New - Android 11 update (Redmi K30, Mi 9T)<br/>
+New - Added Widevine L1 support for Android 10 (Redmi Note 8)<br/>
+<br/>
+<b>Settings</b><br/>
+Optimization - Redesigned color scheme settings (Android 10 devices)<br/>
+Fix - &quot;Items shown on the lock screen after swiping down&quot; options didn't work properly<br/>
+<br/>
+<b>Camera</b><br/>
+Fix - Video from front camera was green while video stabilization was enabled (Mi 10 Ultra)<br/>
+<br/>
+<b>Messaging</b><br/>
+Optimization - Redesigned settings layout<br/>
+Fix - &quot;No conversations&quot; icon was overlapping conversation view<br/>
+<br/>
+Mi 10 Pro, Mi 10, Redmi K30 Pro are expected to be released on Friday. TWRP issue for cmi/lmi still exist!<br/>
+Mi 10 Ultra is suspended due to Android 11 test</Changelog>
 </ROM>
